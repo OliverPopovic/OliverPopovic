@@ -2,7 +2,7 @@
 
 I'm Oliver! 
 --
-- 🤖 Aspiring ML Engineer
+- 🤖 ML Engineer
 - 🎓 Master's Degree in Artificial Intelligence at University of Utrecht
 - 🎓 Bachelor's Degree in Computer Systems Engineering at Queen Mary University of London
 
