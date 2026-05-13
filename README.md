@@ -3,8 +3,8 @@
 I'm Oliver! 
 --
 - 🤖 Data Engineer
-- 🎓 Master's Degree in Artificial Intelligence at University of Utrecht
-- 🎓 Bachelor's Degree in Computer Systems Engineering at Queen Mary University of London
+- 🎓 MSc in Artificial Intelligence at University of Utrecht
+- 🎓 BEng in Computer Systems Engineering at Queen Mary University of London
 
 ## Projects 
 - 🔍 [detecting-violence-online](https://github.com/OliverPopovic/detecting-violence-online-thesis): NLP research project into linguistic violence, my master's thesis 
