@@ -2,7 +2,7 @@
 
 I'm Oliver! 
 --
-- 🤖 Data Engineer
+- 🤖 Data Engineer | Analyst | AI Engineer
 - 🎓 MSc in Artificial Intelligence at University of Utrecht
 - 🎓 BEng in Computer Systems Engineering at Queen Mary University of London
 
